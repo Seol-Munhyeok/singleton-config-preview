@@ -26,6 +26,6 @@ SSAFY 스터디 목적으로 싱글톤(Singleton) 패턴을 **전역 상태 공�
 ## 🚀 How to Run
 1. Clone this repository
 2. Open the project in Eclipse
-3. Run `Main.java`
+3. Run `MainFrame.java`
 
 ---
